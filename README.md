@@ -16,17 +16,23 @@
 ---
 
 ### Languages
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
+<div>
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">&nbsp;
+</div>
 
 ### Frameworks
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-
+<div>
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">&nbsp;
+</div>
+	
 ### Tools
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
+<div>
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">&nbsp;
+</div>

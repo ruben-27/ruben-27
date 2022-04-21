@@ -35,4 +35,5 @@
 <div>
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">&nbsp;
 </div>

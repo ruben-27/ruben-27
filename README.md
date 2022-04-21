@@ -27,5 +27,6 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
 
-
 ### Tools
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>

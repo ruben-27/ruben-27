@@ -18,6 +18,7 @@
 ### Languages
 <div>
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">&nbsp;
@@ -28,12 +29,14 @@
 <div>
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
 </div>
 	
 ### Tools
 <div>
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">&nbsp;
 </div>

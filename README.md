@@ -17,26 +17,26 @@
 
 ### Languages
 <div>
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
 </div>
 
 ### Frameworks
 <div>
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">&nbsp;
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
 </div>
 	
 ### Tools
 <div>
-    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">&nbsp;
+    <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
     <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">&nbsp;
 </div>

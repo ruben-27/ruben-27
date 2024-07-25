@@ -4,8 +4,8 @@
         <a href="https://www.linkedin.com/in/rub%C3%A9n-torres-guti%C3%A9rrez-3168981b8/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge">
 	</a>
-        <a href="https://stackoverflow.com/users/13596081/ruben27">
-            <img src="https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge">
+        <a href="https://www.rubentorresgutierrez.com/">
+            <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=pandora&logoColor=white" alt="Stack Overflow Badge">
 	</a>
     </div>
 </div>
